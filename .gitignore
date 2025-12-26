@@ -1,0 +1,35 @@
+# IDE dan Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS Files
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+temp/
+tmp/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Node modules (jika menggunakan npm di masa depan)
+node_modules/
+
+# Build files (jika ada build process)
+dist/
+build/
+
+# Claude AI
+.claude/
