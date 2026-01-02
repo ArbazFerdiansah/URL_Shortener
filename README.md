@@ -4,11 +4,6 @@
 
 FlashLink adalah layanan URL shortener modern yang dibangun dengan Go dan MongoDB, dilengkapi dengan antarmuka frontend yang sleek dan responsif dengan tema electric yang khas.
 
-![FlashLink](https://img.shields.io/badge/Status-Active-success)
-![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?logo=go)
-![MongoDB](https://img.shields.io/badge/MongoDB-v2-47A248?logo=mongodb)
-![License](https://img.shields.io/badge/License-MIT-blue)
-
 ## 👥 Tim Pengembang
 
 **Kelas 2IA01 - Kelompok 4**
