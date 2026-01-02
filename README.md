@@ -294,7 +294,7 @@ User Request → Rate Limit Check → URL Validation → MongoDB Insert
                                                            ↓
 Redirect ← Cache Lookup ← Short Code ← Response ← Generate Short Code
 ```
-```
+
 
 ## 📈 Performance Optimization
 
@@ -329,8 +329,6 @@ Contributions, issues, and feature requests are welcome!
 **Repository:** [https://github.com/ArbazFerdiansah/URL_Shortener](https://github.com/ArbazFerdiansah/URL_Shortener)
 
 Untuk pertanyaan atau support, silakan buka issue di GitHub repository.
-
----
 
 ⚡ **Made with Lightning Speed by Kelompok 4 - 2IA01** ⚡
 
