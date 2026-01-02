@@ -1,8 +1,8 @@
-# ⚡ FlashLink - URL Shortener
+# ⚡ FlashURL - URL Shortener
 
 > **Persingkat URL Anda Secepat Kilat**
 
-FlashLink adalah layanan URL shortener modern yang dibangun dengan Go dan MongoDB, dilengkapi dengan antarmuka frontend yang sleek dan responsif dengan tema electric yang khas.
+FlashURL adalah layanan URL shortener modern yang dibangun dengan Go dan MongoDB, dilengkapi dengan antarmuka frontend yang responsif dengan tema electric yang khas.
 
 ## 👥 Tim Pengembang
 
@@ -251,10 +251,10 @@ Redirects to original URL with HTTP 302 status.
 
 ```bash
 # Build binary
-go build -o flashlink main.go
+go build -o flashurl main.go
 
 # Run binary
-./flashlink
+./flashurl
 ```
 
 ### Testing
