@@ -1,0 +1,46 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+
+# Build output
+/bin/
+/build/
+/dist/
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+*.cert
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Dependencies
+/vendor/
+
+# Test coverage
+*.coverprofile
+coverage.txt
+coverage.html
+
+# Temporary files
+*.tmp
+*.log
+tmp/
+
+# OS files
+Thumbs.db
